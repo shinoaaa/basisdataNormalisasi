@@ -53,12 +53,12 @@
             <mxRectangle width="157" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HfGm6FVkQur31cz8ZTai-41" value="mutasi" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#BAC8D3;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#EEEEEE;labelBackgroundColor=none;" vertex="1" parent="HfGm6FVkQur31cz8ZTai-7">
+        <mxCell id="HfGm6FVkQur31cz8ZTai-41" value="jenisTransaksi" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#BAC8D3;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#EEEEEE;labelBackgroundColor=none;" vertex="1" parent="HfGm6FVkQur31cz8ZTai-7">
           <mxGeometry x="949" width="158" height="40" as="geometry">
             <mxRectangle width="158" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HfGm6FVkQur31cz8ZTai-34" value="jenisTransaksi" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#BAC8D3;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#EEEEEE;labelBackgroundColor=none;" vertex="1" parent="HfGm6FVkQur31cz8ZTai-7">
+        <mxCell id="HfGm6FVkQur31cz8ZTai-34" value="mutasi" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#BAC8D3;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontColor=#EEEEEE;labelBackgroundColor=none;" vertex="1" parent="HfGm6FVkQur31cz8ZTai-7">
           <mxGeometry x="1107" width="164" height="40" as="geometry">
             <mxRectangle width="164" height="40" as="alternateBounds" />
           </mxGeometry>
